@@ -1,0 +1,6 @@
+swig
+ipykernel
+gymnasium
+gymnasium[box2d]
+gym
+numpy
